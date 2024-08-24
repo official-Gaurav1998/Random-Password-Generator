@@ -21,7 +21,7 @@ function randomPasswordGenerator(){
 
     const upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     const lowerCase = "abcdefghijklmnopqrstuvwxyz";
-    const specialChar = "!@#$%^&*()_-?+~|{}[]<>/=";
+    const specialChar = "!@#$%^&*()_-?+~{}[]<>/=";
     const numbers = "0123456789";
 
     const allChar = upperCase + lowerCase + specialChar + numbers
